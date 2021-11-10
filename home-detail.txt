@@ -1,0 +1,8 @@
+  File: home.html
+  Size: 71        	Blocks: 1          IO Block: 65536  regular file
+Device: 4c6e8ffch/1282314236d	Inode: 12103423998621718  Links: 1
+Access: (0644/-rw-r--r--)  Uid: (197609/   didi_)   Gid: (197609/ UNKNOWN)
+Access: 2021-11-10 20:39:36.146131500 +0700
+Modify: 2021-11-10 20:32:12.721335600 +0700
+Change: 2021-11-10 20:32:12.731334400 +0700
+ Birth: 2021-11-10 19:29:25.358375900 +0700
